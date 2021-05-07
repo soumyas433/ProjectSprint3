@@ -1,0 +1,76 @@
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.exe
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.deps.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.runtimeconfig.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.runtimeconfig.dev.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.dll
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.pdb
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.pdb
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csprojAssemblyReference.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.AssemblyInfoInputs.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.AssemblyInfo.cs
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csproj.CoreCompileInputs.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\ProjectManagement.Api.StaticWebAssets.Manifest.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\ProjectManagement.Api.StaticWebAssets.xml
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectManagement.Api.styles.css
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.RazorTargetAssemblyInfo.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csproj.CopyComplete
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.dll
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.pdb
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.genruntimeconfig.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.exe
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.deps.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.runtimeconfig.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.runtimeconfig.dev.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Api.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Data.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Shared.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Data.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\ProjectManagement.Shared.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csprojAssemblyReference.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.AssemblyInfoInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.AssemblyInfo.cs
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csproj.CoreCompileInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\ProjectManagement.Api.StaticWebAssets.Manifest.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\ProjectManagement.Api.StaticWebAssets.xml
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectManagement.Api.styles.css
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.RazorTargetAssemblyInfo.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.csproj.CopyComplete
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\ProjectManagement.Api.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\ProjectManagement.Entities.deps.json
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\ProjectManagement.Entities.pdb
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\ProjectManagement.Entities.AssemblyInfoInputs.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\ProjectManagement.Entities.AssemblyInfo.cs
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\ProjectManagement.Entities.csproj.CoreCompileInputs.cache
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\ProjectManagement\ProjectManagement.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\ProjectManagement.Entities.pdb

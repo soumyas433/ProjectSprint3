@@ -1,0 +1,14 @@
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Data.Implementation.deps.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Data.Implementation.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Data.Implementation.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Data.Interfaces.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Data.Interfaces.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\ProjectManagement.Entities.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.csprojAssemblyReference.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.AssemblyInfoInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.AssemblyInfo.cs
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.csproj.CoreCompileInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.csproj.CopyComplete
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\ProjectManagement.Data.Implementation.pdb

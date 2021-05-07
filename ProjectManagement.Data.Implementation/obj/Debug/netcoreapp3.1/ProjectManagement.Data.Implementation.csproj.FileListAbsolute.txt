@@ -1,0 +1,16 @@
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.deps.json
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Data.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Shared.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Data.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Shared.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\bin\Debug\netcoreapp3.1\ProjectManagement.Entities.pdb
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.csprojAssemblyReference.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.AssemblyInfoInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.AssemblyInfo.cs
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.csproj.CoreCompileInputs.cache
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.csproj.CopyComplete
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.dll
+D:\Shwetha\GreatLearning\New folder\ProjectManagement.Api\ProjectManagement.Data.Implementation\obj\Debug\netcoreapp3.1\ProjectManagement.Data.Implementation.pdb
